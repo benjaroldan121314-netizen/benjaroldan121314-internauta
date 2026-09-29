@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Benjamín Roldán | RB Solution">
+</p>
+
 <h1 align="center">👋 Hola, soy Benjamín Roldán</h1>
 
 <h3 align="center">
